@@ -1,0 +1,15 @@
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.csproj.AssemblyReference.cache
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfoInputs.cache
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfo.cs
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\bin\Debug\net6.0\Task_58.exe
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\bin\Debug\net6.0\Task_58.deps.json
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\bin\Debug\net6.0\Task_58.runtimeconfig.json
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\bin\Debug\net6.0\Task_58.dll
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\bin\Debug\net6.0\Task_58.pdb
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.dll
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\refint\Task_58.dll
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.pdb
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\Task_58.genruntimeconfig.cache
+C:\Users\79520\Desktop\Курс Python\ДЗ Семинар\Seminar_8\Task_58\obj\Debug\net6.0\ref\Task_58.dll
